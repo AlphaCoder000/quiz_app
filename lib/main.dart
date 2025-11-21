@@ -1,5 +1,5 @@
 import "package:flutter/material.dart";
-
+//runApp() is necessary to run flutter project
 void main() {
   runApp(MyApp());
 }
